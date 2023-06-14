@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/healtp2/static/css/main.f65a0803.css",
+    "main.js": "/healtp2/static/js/main.8ea5118f.js",
+    "static/js/787.f1e9aaf0.chunk.js": "/healtp2/static/js/787.f1e9aaf0.chunk.js",
+    "index.html": "/healtp2/index.html",
+    "main.f65a0803.css.map": "/healtp2/static/css/main.f65a0803.css.map",
+    "main.8ea5118f.js.map": "/healtp2/static/js/main.8ea5118f.js.map",
+    "787.f1e9aaf0.chunk.js.map": "/healtp2/static/js/787.f1e9aaf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f65a0803.css",
+    "static/js/main.8ea5118f.js"
+  ]
+}
