@@ -11,7 +11,7 @@ const Footer = () => {
             <li>* CARLI, S. (2002) “Los niños entre los derechos y la política. Peronismo, Pedagogía y Transformaciones sociales (1945- 1955), en : Niñez, pedagogía y política. Buenos Aires,  Miño y Dávila..</li>
             <li>* BUCHBINDER, P. (2005) “La Renovación Universitaria 1955-1966”, en: Historia de las Universidades Argentinas. Buenos Aires, Sudamericana..</li>
             <li>* KAUFMANN, C. Y DOVAL, D. (1997), “Cap. 2: Libros aprobados – Libros prohibidos – Libros recomendados, Argentina 1976-1982”, en: Una pedagogía de la renuncia. El Perennialismo en la Argentina 1976-1983, UNER, Paraná, pp. 45-70..</li>
-            <li>* INVERNIZZI, H. GOCIOL J. (2007) "Prólogo", "Marco general", en Un golpe a los libros. Represión a la cultura durante la última dictadura militar. Eudeba. Buenos Aires, pp. 15-74 .</li>
+            <li>* INVERNIZZI, H. GOCIOL J. (2007) "Prólogo", "Marco general", en Un golpe a los libros. Represión a la cultura durante la última dictadura militar. Eudeba. Buenos Aires, pp. 15-74</li>
             <li>* FLORES, J; ARAUJO, J Y DABAT, R (2010) Política y Educación: Un vínculo necesario en el debate nacional, en: LUGONES, G Y FLORES, J (comp) Intérpretes e interpretaciones de la Argentina en el bicentenario, Bernal, UNQ, pp. 97-104</li>
             <li>* FILMUS, D. (1996), “Cap. 3. Principales tendencias en la evolución actual del Sistema Educativo Argentino” en Estado, sociedad y educación en la Argentina de fin de siglo, Buenos Aires, Troquel, pp. 47- 99.</li>
           </ul>
